@@ -4,11 +4,11 @@ A small sample application created in SwiftUI 4.0 using Xcode 16 is shown here. 
 
 It has following features:
 
-Onboarding
-Fruit List
-Fruit Details
-Settings
-Light & Dark mode support
+*Onboarding
+*Fruit List
+*Fruit Details
+*Settings
+*Light & Dark mode support
 
 What you will learn ?
 
